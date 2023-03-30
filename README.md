@@ -1,5 +1,4 @@
-# Research_Teams_2023
-MPCR Lab Research Teams
+# MPCR Lab Research Teams 2023
 
 
 ## Overview
