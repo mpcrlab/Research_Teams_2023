@@ -5,7 +5,7 @@ Students interested in working on research are encouraged to join a research tea
 
 ### What are MPCR Research teams?
 
-Student driven research teams with 1-4 members. (Team Leader + Lead Coder + Lead Documentor + Lead Publisher)
+Student driven research teams with 1-4 members. (Team Leader + Lead Coder + Lead Documenter + Lead Publisher)
 
 Requirements:
 
