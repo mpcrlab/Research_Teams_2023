@@ -7,8 +7,9 @@ Students interested in working on research are encouraged to join a research tea
 
 Student driven research teams with 1-4 members. (Team Leader + Lead Coder + Lead Documenter + Lead Publisher)
 
-MPCR Projects ListL
-https://drive.google.com/file/d/1RUaCyxZEEFjdujnX8ehUUaeZfoCJhHOU/view?usp=sharing 
+MPCR Projects List
+
+https://docs.google.com/document/d/1JSRBVnih17ibHcBulaSVovtBe3u7pXJmIpZt768T-2I/edit?usp=sharing 
 
 Requirements:
 
