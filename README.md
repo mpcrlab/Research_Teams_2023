@@ -9,7 +9,7 @@ Student driven research teams with 1-4 members. (Team Leader + Lead Coder + Lead
 
 MPCR Projects List
 
-https://docs.google.com/document/d/1JSRBVnih17ibHcBulaSVovtBe3u7pXJmIpZt768T-2I/edit?usp=sharing 
+https://docs.google.com/document/d/1ToaD7YZKnR8BfOhXhePYrKfLwh1PRIcmz8AnNrZIAjc/edit?usp=sharing
 
 Requirements:
 
